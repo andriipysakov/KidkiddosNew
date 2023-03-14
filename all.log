@@ -1,0 +1,41 @@
+2023-03-14 18:16:52.758 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=110 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:16:52.762 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome110=110.0.5481.77 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:16:52.763 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-03-14 18:16:52.774 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 110.0.5481.77 found in cache
+2023-03-14 18:16:52.775 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\stand\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-14 18:16:56.001 [main] INFO  CartPageTest - Change quantity cart test
+2023-03-14 18:16:57.219 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=110 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:16:57.221 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome110=110.0.5481.77 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:16:57.221 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-03-14 18:16:57.226 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 110.0.5481.77 found in cache
+2023-03-14 18:16:57.227 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\stand\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-14 18:16:58.972 [main] INFO  LoginPageTest - Login Page incorrect username and password test
+2023-03-14 18:17:00.051 [main] INFO  Pages.BasePage - Check element with xpath exists: //li[text()='Incorrect email or password.']
+2023-03-14 18:17:02.755 [main] INFO  LoginPageTest - Login Page empty username and password test
+2023-03-14 18:17:02.949 [main] INFO  Pages.BasePage - Check element with xpath exists: //li[text()='Incorrect email or password.']
+2023-03-14 18:17:04.540 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=110 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:17:04.541 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome110=110.0.5481.77 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:17:04.542 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-03-14 18:17:04.548 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 110.0.5481.77 found in cache
+2023-03-14 18:17:04.549 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\stand\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-14 18:17:06.967 [main] INFO  BooksResultPageTest - Product Page load test
+2023-03-14 18:17:07.522 [main] INFO  Pages.BasePage - Check element with xpath exists: //label[text()='Quantity']
+2023-03-14 18:17:08.018 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=110 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:17:08.020 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome110=110.0.5481.77 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:17:08.021 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-03-14 18:17:08.025 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 110.0.5481.77 found in cache
+2023-03-14 18:17:08.026 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\stand\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-14 18:17:10.226 [main] INFO  HomePageTest - Home Page load test
+2023-03-14 18:17:10.226 [main] INFO  Pages.BasePage - Check element with xpath exists: //img[@itemprop='logo']
+2023-03-14 18:17:11.997 [main] INFO  HomePageTest - Books Result Page load test
+2023-03-14 18:17:13.804 [main] INFO  Pages.BasePage - Check element with xpath exists: //h1[text()='English Only']
+2023-03-14 18:17:14.763 [main] INFO  Pages.BasePage - Clicking element with xpath: //a[@href='/account/login']
+2023-03-14 18:17:15.297 [main] INFO  Pages.BasePage - Check element with xpath exists: //h1[text()='Login']
+2023-03-14 18:17:15.573 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=110 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:17:15.575 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome110=110.0.5481.77 (valid until 2023-03-15 00:05:19)
+2023-03-14 18:17:15.575 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-03-14 18:17:15.584 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 110.0.5481.77 found in cache
+2023-03-14 18:17:15.586 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\stand\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-14 18:17:17.620 [main] INFO  ProductPageTest - Add to cart test
+2023-03-14 18:17:19.033 [main] INFO  ProductPageTest - Cart Page load test
+2023-03-14 18:17:20.189 [main] INFO  Pages.BasePage - Check element with xpath exists: //h1[text()='Your cart']

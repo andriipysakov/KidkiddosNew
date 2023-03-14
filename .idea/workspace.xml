@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fa1899f-5953-48dc-920a-485e5dcec227" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1VhzhMRMGLJp51qZKpZz9ICI9aC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Workspace/Project1/HometaskM12",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in kidkiddosUITestProject (1)">
+    <configuration name="All in kidkiddosUITestProject (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksResultPageTest.productPageLoadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksResultPageTest" />
+      <option name="METHOD_NAME" value="productPageLoadTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartPageTest.changeQuantityCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartPageTest" />
+      <option name="METHOD_NAME" value="changeQuantityCartTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.booksResultPageLoadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomePageTest" />
+      <option name="METHOD_NAME" value="booksResultPageLoadTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductPageTest.addToCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductPageTest" />
+      <option name="METHOD_NAME" value="addToCartTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in kidkiddosUITestProject (1)" />
+        <item itemvalue="JUnit.CartPageTest.changeQuantityCartTest" />
+        <item itemvalue="JUnit.ProductPageTest.addToCartTest" />
+        <item itemvalue="JUnit.HomePageTest.booksResultPageLoadTest" />
+        <item itemvalue="JUnit.BooksResultPageTest.productPageLoadTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fa1899f-5953-48dc-920a-485e5dcec227" name="Default Changelist" comment="" />
+      <created>1577720232381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577720232381</updated>
+    </task>
+    <servers />
+  </component>
+</project>
